@@ -61,7 +61,7 @@
     {
       "id": "lessentiel",
       "name": "L'essentiel Radio",
-      "streamURL": "https://streaming.lessentielradio.lu/lessentielradio.mp3",
+      "streamURL": "http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3",
       "logoImageName": "LessentielLogo",
       "websiteURL": "https://www.facebook.com/lessentielradio"
     },
