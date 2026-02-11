@@ -1,10 +1,10 @@
 {
-  "version": "1.9",
-  "last_updated": "2025-02-11 10:36PM",
+  "version": "1.10",
+  "last_updated": "2025-02-11 10:46PM",
   "stations": [
     {
       "id": "antena_mais",
-      "name": "Antena Mais 2",
+      "name": "Antena Mais 45",
       "streamURL": "https://sp0.redeaudio.com/8084/stream/1/",
       "logoImageName": "AntenaLogo",
       "websiteURL": "https://www.facebook.com/antenamais/"
